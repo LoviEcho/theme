@@ -11,7 +11,12 @@ Welcome to the **Theme Installation Guide**. Please follow the steps below to in
 
 ## 🛠️ Installation Command
 
-To install the theme, run the following command in your terminal:
 
+Bahan Install Theme dan lainya
 ```bash
 bash <(curl https://raw.githubusercontent.com/LoviEcho/theme/main/install.sh)
+
+
+Bahan Install Panel
+```bash
+bash <(curl -s https://pterodactyl-installer.se)
