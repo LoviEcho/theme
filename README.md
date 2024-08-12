@@ -15,8 +15,9 @@ Welcome to the **Theme Installation Guide**. Please follow the steps below to in
 Bahan Install Theme dan lainya
 ```bash
 bash <(curl https://raw.githubusercontent.com/LoviEcho/theme/main/install.sh)
-
+```
 
 Bahan Install Panel
 ```bash
 bash <(curl -s https://pterodactyl-installer.se)
+```
