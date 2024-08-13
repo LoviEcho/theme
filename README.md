@@ -14,7 +14,7 @@ Welcome to the **Theme Installation Guide**. Please follow the steps below to in
 
 Bahan Install Theme dan lainya
 ```bash
-bash <(curl https://raw.githubusercontent.com/LoviEcho/theme/main/install.sh)
+bash <(curl https://yopi.azl.my.id/theme/install.sh)
 ```
 
 Bahan Install Panel
